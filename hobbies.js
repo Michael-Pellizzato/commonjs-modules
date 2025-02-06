@@ -8,8 +8,8 @@ function hobby(hobbyOne, hobbyTwo, hobbyThree){
   return obbi
 }
 
-hobby("auto", "pesca", "ballare")
+//hobby("auto", "pesca", "ballare")
 
-console.log(obbi)
+//console.log(obbi)
 
 module.exports = hobby;

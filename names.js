@@ -6,7 +6,7 @@ function nomeCognome(firstName, lastName){
     
 }
 
-console.log(nomeCognome("a" , "b"))
+//console.log(nomeCognome("a" , "b"))
 
 module.exports = nomeCognome;
 
